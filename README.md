@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChakrabortyDiya
 - 👀 I’m interested in learning more
 - 🌱 I’m currently learning web designing
-- 💞️ I’m looking to collaborate on works related to webdev
+- 💞️ I’m looking to collaborate on any interesting projects
 
 
 <!---
